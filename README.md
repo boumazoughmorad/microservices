@@ -24,20 +24,20 @@ git clone https://github.com/your-username/project-name.git
 cd project-name
 ```
 
-###Build the project using Maven:
+### Build the project using Maven:
 ```sh
 mvn clean install
 
 ```
 
-###Run the project locally:
+### Run the project locally:
 ```sh
 mvn spring-boot:run
 
 
 ```
 
-###Using Docker:
+### Using Docker:
 You can containerize and run the services using Docker Compose. First, build the Docker images:
 
 ```sh
